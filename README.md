@@ -1,3 +1,3 @@
 # Project1_FlightProgram
 
-# All the files are coded using Visual Studio
+All the files are coded using Visual Studio
